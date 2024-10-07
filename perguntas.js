@@ -21,3 +21,9 @@ criaCartao(
     'Quem fez o gol do corinthians no mundial de 2012?',
     'O Alvinegro venceu o Chelsea por 1 a 0, com gol de ~Paolo Guerrero~, e conquistou o mundo pela segunda vez.'
 )
+
+criaCartao(
+    'Filmes',
+    'Qual é o trabalho executado pelo Bom Gigante no filme o Bom Gigante Amigo?',
+    'Ele caça bons sonhos para espalhar pela cidade.'
+)
